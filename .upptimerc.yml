@@ -1,36 +1,30 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+# .upptimerc.yml
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Mainframe
+    url: $khoinet.ddns.net
+    type: globalping
+    location: Singapore
+  - name: Middleman
+    url: https://khoinet.dpdns.org
+    method: GET
+  - name: Immich
+    url: https://photo.khoinet.dpdns.org
+    method: GET
+  - name: Jellyfin
+    url: https://films.khoinet.dpdns.org
+    method: GET
+  - name: File Server
+    url: https://file.khoinet.dpdns.org
+    method: GET
+  - name: ConvertX
+    url: https://convert.khoinet.dpdns.org
+    method: GET
 
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+status-page:
+  title: Sivi oof checker
+  description: Check server con song hay ko 
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/khoi-ttc/sivi_uptime
