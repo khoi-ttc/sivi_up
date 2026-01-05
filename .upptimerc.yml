@@ -1,5 +1,5 @@
 # .upptimerc.yml
-owner: khoi-ttc # GitHub username
+owner: khoi-ttc
 repo: sivi_up
 sites:
   - name: Mainframe
