@@ -1,4 +1,6 @@
 # .upptimerc.yml
+owner: khoi-ttc # GitHub username
+repo: sivi_up
 sites:
   - name: Mainframe
     url: $khoinet.ddns.net
