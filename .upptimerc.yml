@@ -2,10 +2,6 @@
 owner: khoi-ttc
 repo: sivi_up
 sites:
-  - name: Mainframe
-    url: $khoinet.ddns.net
-    type: globalping
-    location: Singapore
   - name: Middleman
     url: https://khoinet.dpdns.org
     method: GET
