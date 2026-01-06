@@ -1,25 +1,5 @@
 [
   {
-    "name": "Mainframe",
-    "url": "$khoinet.ddns.net",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "mainframe",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-05": 14
-    }
-  },
-  {
     "name": "Middleman",
     "url": "https://khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/khoinet.dpdns.org.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5992,
-    "timeDay": 5992,
-    "timeWeek": 5992,
-    "timeMonth": 5992,
-    "timeYear": 5992,
+    "time": 3510,
+    "timeDay": 3510,
+    "timeWeek": 3510,
+    "timeMonth": 3510,
+    "timeYear": 3510,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 945,
-    "timeWeek": 945,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "time": 802,
+    "timeDay": 802,
+    "timeWeek": 802,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1123,
-    "timeDay": 1123,
-    "timeWeek": 1123,
-    "timeMonth": 1123,
-    "timeYear": 1123,
+    "time": 1134,
+    "timeDay": 1134,
+    "timeWeek": 1134,
+    "timeMonth": 1134,
+    "timeYear": 1134,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6024,
-    "timeDay": 6024,
-    "timeWeek": 6024,
-    "timeMonth": 6024,
-    "timeYear": 6024,
+    "time": 3311,
+    "timeDay": 3311,
+    "timeWeek": 3311,
+    "timeMonth": 3311,
+    "timeYear": 3311,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5848,
-    "timeDay": 5848,
-    "timeWeek": 5848,
-    "timeMonth": 5848,
-    "timeYear": 5848,
+    "time": 3329,
+    "timeDay": 3329,
+    "timeWeek": 3329,
+    "timeMonth": 3329,
+    "timeYear": 3329,
     "dailyMinutesDown": {}
   }
 ]
