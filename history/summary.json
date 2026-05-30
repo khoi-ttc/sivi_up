@@ -4,17 +4,17 @@
     "url": "https://khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/khoinet.dpdns.org.ico",
     "slug": "middleman",
-    "status": "up",
-    "uptime": "61.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.17%",
-    "uptimeYear": "61.91%",
-    "time": 3065,
-    "timeDay": 1136,
-    "timeWeek": 1511,
-    "timeMonth": 2022,
-    "timeYear": 3065,
+    "status": "down",
+    "uptime": "61.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "80.11%",
+    "uptimeYear": "61.98%",
+    "time": 3049,
+    "timeDay": 596,
+    "timeWeek": 1329,
+    "timeMonth": 1973,
+    "timeYear": 3049,
     "dailyMinutesDown": {
       "2026-01-06": 30,
       "2026-01-15": 563,
@@ -85,7 +85,8 @@
       "2026-05-14": 193,
       "2026-05-18": 254,
       "2026-05-19": 201,
-      "2026-05-20": 202
+      "2026-05-20": 202,
+      "2026-05-30": 1
     }
   },
   {
@@ -94,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/photo.khoinet.dpdns.org.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "62.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "75.94%",
+    "uptime": "62.55%",
+    "uptimeDay": "71.49%",
+    "uptimeWeek": "71.87%",
     "uptimeMonth": "55.91%",
-    "uptimeYear": "62.67%",
+    "uptimeYear": "62.55%",
     "time": 1409,
     "timeDay": 814,
     "timeWeek": 804,
@@ -173,7 +174,7 @@
       "2026-05-26": 1440,
       "2026-05-25": 497,
       "2026-05-28": 242,
-      "2026-05-30": 0
+      "2026-05-30": 411
     }
   },
   {
@@ -181,17 +182,17 @@
     "url": "https://films.khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/films.khoinet.dpdns.org.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "63.40%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "63.47%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "78.34%",
-    "uptimeMonth": "59.36%",
-    "uptimeYear": "63.40%",
-    "time": 1890,
-    "timeDay": 1514,
-    "timeWeek": 1107,
-    "timeMonth": 1522,
-    "timeYear": 1890,
+    "uptimeMonth": "60.30%",
+    "uptimeYear": "63.47%",
+    "time": 1880,
+    "timeDay": 776,
+    "timeWeek": 1000,
+    "timeMonth": 1483,
+    "timeYear": 1880,
     "dailyMinutesDown": {
       "2026-01-06": 29,
       "2026-01-15": 563,
@@ -258,7 +259,8 @@
       "2026-05-17": 470,
       "2026-05-27": 246,
       "2026-05-26": 1440,
-      "2026-05-25": 497
+      "2026-05-25": 497,
+      "2026-05-30": 1
     }
   },
   {
@@ -266,17 +268,17 @@
     "url": "https://file.khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/file.khoinet.dpdns.org.ico",
     "slug": "file-server",
-    "status": "up",
-    "uptime": "62.59%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "62.66%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.64%",
-    "uptimeYear": "62.59%",
-    "time": 1241,
-    "timeDay": 949,
-    "timeWeek": 1535,
-    "timeMonth": 1055,
-    "timeYear": 1241,
+    "uptimeMonth": "80.57%",
+    "uptimeYear": "62.66%",
+    "time": 1234,
+    "timeDay": 491,
+    "timeWeek": 1347,
+    "timeMonth": 1028,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2026-01-06": 29,
       "2026-01-15": 563,
@@ -343,7 +345,8 @@
       "2026-03-23": 439,
       "2026-05-14": 192,
       "2026-05-18": 254,
-      "2026-05-19": 201
+      "2026-05-19": 201,
+      "2026-05-30": 0
     }
   },
   {
@@ -351,17 +354,17 @@
     "url": "https://convert.khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/convert.khoinet.dpdns.org.ico",
     "slug": "convert-x",
-    "status": "up",
-    "uptime": "63.12%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "63.19%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "78.35%",
-    "uptimeMonth": "59.36%",
-    "uptimeYear": "63.12%",
-    "time": 1601,
-    "timeDay": 1699,
-    "timeWeek": 1213,
-    "timeMonth": 1644,
-    "timeYear": 1601,
+    "uptimeMonth": "60.30%",
+    "uptimeYear": "63.19%",
+    "time": 1593,
+    "timeDay": 868,
+    "timeWeek": 1096,
+    "timeMonth": 1602,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2026-01-06": 30,
       "2026-01-15": 563,
@@ -428,7 +431,8 @@
       "2026-05-17": 470,
       "2026-05-27": 246,
       "2026-05-26": 1440,
-      "2026-05-25": 497
+      "2026-05-25": 497,
+      "2026-05-30": 0
     }
   }
 ]
