@@ -4,17 +4,17 @@
     "url": "https://khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/khoinet.dpdns.org.ico",
     "slug": "middleman",
-    "status": "down",
-    "uptime": "65.12%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "65.12%",
-    "time": 2845,
-    "timeDay": 879,
-    "timeWeek": 1111,
-    "timeMonth": 1690,
-    "timeYear": 2845,
+    "status": "up",
+    "uptime": "65.08%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "65.08%",
+    "time": 2840,
+    "timeDay": 1172,
+    "timeWeek": 1170,
+    "timeMonth": 1691,
+    "timeYear": 2840,
     "dailyMinutesDown": {
       "2026-01-06": 30,
       "2026-01-15": 563,
@@ -89,7 +89,7 @@
       "2026-05-30": 139,
       "2026-06-04": 98,
       "2026-06-08": 260,
-      "2026-06-13": 1
+      "2026-06-13": 108
     }
   },
   {
@@ -97,17 +97,17 @@
     "url": "https://photo.khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/photo.khoinet.dpdns.org.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "64.71%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "67.88%",
-    "uptimeYear": "64.71%",
-    "time": 1348,
-    "timeDay": 815,
+    "status": "up",
+    "uptime": "64.68%",
+    "uptimeDay": "92.53%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "67.63%",
+    "uptimeYear": "64.68%",
+    "time": 1345,
+    "timeDay": 842,
     "timeWeek": 900,
     "timeMonth": 873,
-    "timeYear": 1348,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2026-01-06": 30,
       "2026-01-15": 563,
@@ -182,7 +182,7 @@
       "2026-05-30": 788,
       "2026-06-04": 98,
       "2026-06-08": 260,
-      "2026-06-13": 1
+      "2026-06-13": 108
     }
   },
   {
@@ -190,16 +190,16 @@
     "url": "https://films.khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/films.khoinet.dpdns.org.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "66.47%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "77.11%",
-    "uptimeYear": "66.47%",
+    "status": "up",
+    "uptime": "66.44%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "76.87%",
+    "uptimeYear": "66.44%",
     "time": 1829,
-    "timeDay": 761,
-    "timeWeek": 1213,
-    "timeMonth": 1446,
+    "timeDay": 1076,
+    "timeWeek": 1258,
+    "timeMonth": 1452,
     "timeYear": 1829,
     "dailyMinutesDown": {
       "2026-01-06": 29,
@@ -271,7 +271,7 @@
       "2026-05-30": 139,
       "2026-06-04": 98,
       "2026-06-08": 260,
-      "2026-06-13": 1
+      "2026-06-13": 107
     }
   },
   {
@@ -279,17 +279,17 @@
     "url": "https://file.khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/file.khoinet.dpdns.org.ico",
     "slug": "file-server",
-    "status": "down",
-    "uptime": "65.74%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "97.39%",
-    "uptimeYear": "65.74%",
-    "time": 1183,
-    "timeDay": 455,
-    "timeWeek": 695,
+    "status": "up",
+    "uptime": "65.70%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "65.70%",
+    "time": 1182,
+    "timeDay": 617,
+    "timeWeek": 717,
     "timeMonth": 943,
-    "timeYear": 1183,
+    "timeYear": 1182,
     "dailyMinutesDown": {
       "2026-01-06": 29,
       "2026-01-15": 563,
@@ -360,7 +360,7 @@
       "2026-05-30": 139,
       "2026-06-04": 97,
       "2026-06-08": 260,
-      "2026-06-13": 0
+      "2026-06-13": 107
     }
   },
   {
@@ -368,17 +368,17 @@
     "url": "https://convert.khoinet.dpdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/convert.khoinet.dpdns.org.ico",
     "slug": "convert-x",
-    "status": "down",
-    "uptime": "66.22%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "77.12%",
-    "uptimeYear": "66.22%",
-    "time": 1567,
-    "timeDay": 879,
-    "timeWeek": 1252,
-    "timeMonth": 1262,
-    "timeYear": 1567,
+    "status": "up",
+    "uptime": "66.19%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "76.87%",
+    "uptimeYear": "66.19%",
+    "time": 1565,
+    "timeDay": 983,
+    "timeWeek": 1247,
+    "timeMonth": 1260,
+    "timeYear": 1565,
     "dailyMinutesDown": {
       "2026-01-06": 30,
       "2026-01-15": 563,
@@ -449,7 +449,7 @@
       "2026-05-30": 139,
       "2026-06-04": 97,
       "2026-06-08": 259,
-      "2026-06-13": 0
+      "2026-06-13": 107
     }
   }
 ]
