@@ -1,7 +1,7 @@
 url: https://films.khoinet.dpdns.org
-status: up
-code: 200
-responseTime: 1519
-lastUpdated: 2026-06-27T00:02:27.551Z
+status: down
+code: 502
+responseTime: 550
+lastUpdated: 2026-06-27T16:52:51.692Z
 startTime: 2026-01-05T15:44:47.448Z
 generator: Upptime <https://github.com/upptime/upptime>
